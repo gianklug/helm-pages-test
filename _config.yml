@@ -1,2 +1,14 @@
 title: Adfinis Helm Charts
 remote_theme: gianklug/jekyll-theme-adfinis
+
+links:
+  homepage: https://adfinis.com
+  contact: https://adfinis.com/kontakt/
+  privacy: https://adfinis.com/privacypolicy/
+
+home:
+  links:
+    cta:
+      text: See our helm charts!
+      href: #argo-cd-app-of-apps-charts
+      class: fa-arrow-down
