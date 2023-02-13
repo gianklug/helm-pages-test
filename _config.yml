@@ -1,14 +1,28 @@
 title: Adfinis Helm Charts
-remote_theme: gianklug/jekyll-theme-adfinis
+locale                  : "en-US"
+remote_theme: gianklug/jekyll-theme-adfinis-ng
+email                   : support@adfinis.com
+description             : >-
+  Welcome to Adfinis!
+url:                    : "https://pages.adfinis.com"
 
-links:
-  homepage: https://adfinis.com
-  contact: https://adfinis.com/kontakt/
-  privacy: https://adfinis.com/privacypolicy/
 
-home:
-  links:
-    cta:
-      text: See our helm charts!
-      href: #argo-cd-app-of-apps-charts
-      class: fa-arrow-down
+
+header:
+  button:
+    title: "Contact"
+    href: "https://adfinis.com/kontakt/"
+
+footer:
+  blog:
+    name: "Blog"
+    href: "https://adfinis.com/blog/"
+  privacy:
+    name: "Privacy policy"
+    href: "https://adfinis.com/datenschutzerklaerung/"
+  linkedin:
+    href: "https://www.linkedin.com/company/adfinis-com"
+  github:
+    href: "https://github.com/adfinis/helm-charts"
+  twitter:
+    href: "https://twitter.com/adfinis"
