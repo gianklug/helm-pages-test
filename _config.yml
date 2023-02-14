@@ -13,6 +13,8 @@ header:
     title: "Contact"
     href: "https://adfinis.com/kontakt/"
 
+hero:
+  image_url: "https://upload.wikimedia.org/wikipedia/commons/9/91/Shipping_containers_at_Clyde.jpg"
 footer:
   blog:
     name: "Blog"
